@@ -2,8 +2,8 @@ title: "International Symposium on XXXXX"
 description: "A two-day international symposium on XXXXX."
 timezone: "Asia/Tokyo"
 
-url: ""            # 例: https://username.github.io  （独自ドメインなら https://example.org）
-baseurl: ""        # プロジェクトサイトなら "/repo-name"、ユーザーサイトや独自ドメインなら ""
+url: "https://nakatolab.github.io"
+baseurl: "/IQB_NTU_symposium2026"
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
