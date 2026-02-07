@@ -13,7 +13,7 @@ permalink: /
 
 ---
 
-## Overview
+## Aim
 
 Due to rapid advances in measurement technologies, the demand for analyzing massive datasets is increasing in fields such as neural activity analysis, genome analysis, disease diagnosis, and drug discovery. Researchers have been developing new technologies across diverse biological modalities and building AI-based models of biological systems to predict function. Meanwhile, generative AI has advanced remarkably in industry. Integrating these technologies and translating them into transformative discoveries is critically important.
 
@@ -27,8 +27,6 @@ The symposium aims to foster interdisciplinary discussion and international coll
 - Akihiro Funamizu (Laboratory of Neural Computation)
 
 ## <a href="https://nakatolab.github.io/IQB_NTU_symposium2026/speakers.html">Speakers</a>
-
----
 
 ## Venue Information
 
