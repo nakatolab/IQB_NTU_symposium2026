@@ -10,7 +10,7 @@ permalink: /schedule/
 |------|---------|
 | 10:00–10:30 | Registration |
 | 10:30–10:40 | Opening Remarks |
-| 10:40–11:30 | **Keynote Lecture 1**: Prof. Pai-Chi Li (National Taiwan University) |
+| 10:40–11:30 | **Keynote Lecture 1: Prof. Pai-Chi Li (National Taiwan University)** |
 | 11:30 | Group Photo |
 | 11:30–13:00 | Lunch Break |
 | 13:00–14:20 | **Session 1: Brain and neuroscience** |
@@ -27,7 +27,7 @@ permalink: /schedule/
 
 | Time | Program |
 |------|---------|
-| 09:30–10:10 | **Keynote Lecture 2**: Dr. Yutaro Yamada (Sakana AI) |
+| 09:30–10:10 | **Keynote Lecture 2: Dr. Yutaro Yamada (Sakana AI)** |
 | 10:10–10:20 | Buffer |
 | 10:20–12:00 | **Session 4: AI and Systems Biology** |
 | 12:00–13:00 | Lunch Break |
@@ -35,6 +35,7 @@ permalink: /schedule/
 | 14:40–15:20 | Coffee Break |
 | 15:20–16:40 | **Session 6: Chromatin and disease** |
 | 16:40 | Closing Remarks |
+
 
 
 
