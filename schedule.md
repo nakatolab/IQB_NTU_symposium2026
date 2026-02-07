@@ -19,7 +19,7 @@ permalink: /schedule/
 | 16:20–17:00 | Coffee Break |
 | 17:00–17:50 | Session 3 |
 | 17:50–18:30 | Buffer / Transition |
-| 18:30–20:30 | Mixer ([Shiki Kyodo Ryori Kadoya Sanjotei](https://www.kadoya-taimeshi.com/kadoyamanage/shoplist/kadoyasanjotei/)) |
+| 18:30–20:30 | Mixer ([Restaurant Kadoya Sanjotei](https://www.kadoya-taimeshi.com/kadoyamanage/shoplist/kadoyasanjotei/)) |
 
 ---
 
@@ -35,6 +35,7 @@ permalink: /schedule/
 | 14:40–15:20 | Coffee Break |
 | 15:20–16:40 | Session 6 |
 | 16:40 | Closing Remarks |
+
 
 
 
