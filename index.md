@@ -14,6 +14,13 @@ Due to rapid advances in measurement technologies, the demand for analyzing mass
 
 The symposium aims to foster interdisciplinary discussion and international collaboration. Speakers will include researchers at the forefront of life sciences, as well as experts in cutting-edge technologies such as AI and quantum computing. Through the academic exchange between the Institute for Quantitative Biosciences (IQB) at the University of Tokyo and the Center for Advanced Computing and Imaging in Biomedicine (CACIB) at National Taiwan University, we are expanding our international research network.
 
+## Organizing Chairs
+
+Katsuhiko Shirahige
+Yukihide Tomari
+Ryuichiro Nakato
+Akihiro Funamizu
+
 ---
 
 ## Venue Information
