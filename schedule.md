@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Program
+layout: single
+title: "Program"
+permalink: /schedule/
 ---
 
 ## Program Schedule
@@ -34,3 +35,4 @@ All times are local time (UTC+X).
 | 12:15–13:45 | Lunch |
 | 13:45–15:45 | Session 4 |
 | 15:45–16:00 | Closing Remarks |
+
