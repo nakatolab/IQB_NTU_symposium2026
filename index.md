@@ -4,7 +4,7 @@ title: IQB_NTU_symposium2026
 ---
 
 ### **Date:** April 13–14, 2026  
-### **Location:** Institute for Quantitative Biosciences, University of Tokyo, Tokyo, Japan 
+### **Location:** Cell Auditorium, Institute for Quantitative Biosciences, University of Tokyo, Tokyo, Japan 
 
 ---
 
