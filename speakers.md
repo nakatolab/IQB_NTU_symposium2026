@@ -1,9 +1,10 @@
 ---
-layout: page
-title: Speakers
+layout: single
+title: "Speakers"
+permalink: /speakers/
 ---
 
-## Invited Speakers
+## Speakers
 
 ---
 
@@ -31,3 +32,4 @@ Short bio text goes here.
 Title: *Integrative approaches to XXXXX*
 
 Short bio text goes here.
+
