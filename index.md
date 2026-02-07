@@ -1,69 +1,43 @@
 ---
 layout: page
-title: Home
+title: IQB_NTU_symposium2026
 ---
 
-## International Symposium on XXXXX
-
-**Date:** March XX–XX, 2026  
-**Location:** University of XXXXX, City, Country  
-**Format:** On-site (with limited online streaming)
+**Date:** April 13–14, 2026  
+**Location:** Institute for Quantitative Biosciences, University of Tokyo, Tokyo, Japan 
 
 ---
 
-### Overview
+## Overview
 
-This international symposium brings together researchers from diverse fields to discuss recent advances in XXXXX.  
-The symposium aims to foster interdisciplinary discussion and international collaboration.
+Due to rapid advances in measurement technologies, the demand for analyzing massive datasets is increasing in fields such as neural activity analysis, genome analysis, disease diagnosis, and drug discovery. Researchers have been developing new technologies across diverse biological modalities and building AI-based models of biological systems to predict function. Meanwhile, generative AI has advanced remarkably in industry. Integrating these technologies and translating them into transformative discoveries is critically important.
 
----
-
-### Key Topics
-
-- Topic 1 related to XXXXX
-- Topic 2 related to XXXXX
-- Topic 3 related to XXXXX
-
----
-
-### Important Dates
-
-- Registration opens: January XX, 2026  
-- Registration deadline: February XX, 2026  
-- Symposium dates: March XX–XX, 2026
+The symposium aims to foster interdisciplinary discussion and international collaboration. Speakers will include researchers at the forefront of life sciences, as well as experts in cutting-edge technologies such as AI and quantum computing. Through the academic exchange between the Institute for Quantitative Biosciences (IQB) at the University of Tokyo and the Center for Advanced Computing and Imaging in Biomedicine (CACIB) at National Taiwan University, we are expanding our international research network.
 
 ---
 
 ## Venue Information
 
-**University of XXXXX**  
-Building XX, Room XXX  
-City, Country
+**Institute for Quantitative Biosciences, the University of Tokyo**  
+Main Building
+Cell Auditorium
+Tokyo, Japan
 
 ---
 
-### Access
+## Access
 
-- From Airport: XX minutes by train
-- From Central Station: XX minutes by subway
-
----
-
-### Map
-
-A Google Maps link will be provided here.  
-(Embedded maps can also be added later if needed.)
+- The nearest station is Todaimae (東大前) Station of the Tokyo Metro Nanboku line.
 
 ---
 
-### Local Information
+## Map
 
-- Nearby hotels: TBA  
-- Restaurants and cafes are available on campus.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5447.958947290992!2d139.75808313826528!3d35.716975933715915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c324c8e6e53%3A0xbf06c36f43d7af77!2z44CSMTEzLTAwMzIg5p2x5Lqs6YO95paH5Lqs5Yy65byl55Sf77yR5LiB55uu77yRIOWIhuWtkOe0sOiDnueUn-eJqeWtpueglOeptuaJgA!5e0!3m2!1sja!2sjp!4v1728531836066!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
-### Contact
+## Contact
 
 For inquiries, please contact:  
 **rnakato [at] iqb.u-tokyo.ac.jp**
