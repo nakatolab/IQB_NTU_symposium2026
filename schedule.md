@@ -10,7 +10,7 @@ permalink: /schedule/
 |------|---------|
 | 10:00–10:30 | Registration |
 | 10:30–10:40 | Opening Remarks |
-| 10:40–11:30 | **Keynote Lecture 1**  <br> Prof. Pai-Chi Li |
+| 10:40–11:30 | **Keynote Lecture 1**: Prof. Pai-Chi Li |
 | 11:30 | Group Photo |
 | 11:30–13:00 | Lunch Break |
 | 13:00–14:20 | Session 1 |
@@ -19,7 +19,7 @@ permalink: /schedule/
 | 16:20–17:00 | Coffee Break |
 | 17:00–17:50 | Session 3 |
 | 17:50–18:30 | Buffer / Transition / Break |
-| 18:30–20:30 | Mixer  <br> Shiki Kyodo Ryori Kadoya Sanjotei |
+| 18:30–20:30 | Mixer ([Shiki Kyodo Ryori Kadoya Sanjotei](https://www.kadoya-taimeshi.com/kadoyamanage/shoplist/kadoyasanjotei/)) |
 
 ---
 
@@ -35,4 +35,5 @@ permalink: /schedule/
 | 14:40–15:20 | Coffee Break |
 | 15:20–16:40 | Session 6 |
 | 16:40 | Closing Remarks |
+
 
