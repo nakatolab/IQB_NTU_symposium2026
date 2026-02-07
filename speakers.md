@@ -6,7 +6,7 @@ permalink: /speakers/
 
 ## Keynote Speakers
 
-#### ![Pai-Chi Li](/assets/images/speakers/Pai-Chi Li.jpg){: .align-left width="160"}
+#### ![Pai-Chi Li](/assets/images/speakers/Pai-Chi_Li.jpg){: .align-left width="160"}
 Graduate Institute of Biomedical Electronics and Bioinformatics, National
 Taiwan University, Taipei, Taiwan
 
@@ -160,6 +160,7 @@ National Taiwan University
 
 Official website:  
 https://www.idssp.ee.ntu.edu.tw/che-lin
+
 
 
 
