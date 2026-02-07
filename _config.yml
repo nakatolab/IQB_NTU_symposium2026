@@ -1,16 +1,12 @@
 #theme: minima
 title: IQB_NTU_symposium2026
 
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+#remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: pages-themes/dinky@v0.2.0
 
 plugins:
-  - jekyll-include-cache
-  - jekyll-sitemap
-  - jekyll-feed
+  - jekyll-remote-theme
 
-markdown: kramdown
-permalink: pretty
-
-minimal_mistakes_skin: "default"   # "air" "contrast" "dark" "mint" "sunrise" なども可
-
-search: false
+include:
+  - _includes/head-custom.html
+  
