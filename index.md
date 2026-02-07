@@ -16,10 +16,10 @@ The symposium aims to foster interdisciplinary discussion and international coll
 
 ## Organizing Chairs
 
-Katsuhiko Shirahige
-Yukihide Tomari
-Ryuichiro Nakato
-Akihiro Funamizu
+#### Katsuhiko Shirahige (Laboratory of Genome Structure and Function)
+#### Yukihide Tomari (Laboratory of RNA Function)
+#### Ryuichiro Nakato (Laboratory of Computational Genomics)
+#### Akihiro Funamizu (Laboratory of Neural Computation)
 
 ## Speakers
 
@@ -39,7 +39,8 @@ The nearest station is Todaimae (東大前) Station of the Tokyo Metro Nanboku l
 
 ---
 
-## Contact
+## Sponsors
 
-For inquiries, please contact:  
-**rnakato [at] iqb.u-tokyo.ac.jp**
+#### Institute for Quantitative Biosciences
+#### Japanese Neural Network Society
+#### The Naito Foundation
