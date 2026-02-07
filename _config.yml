@@ -18,14 +18,4 @@ minimal_mistakes_skin: "default"   # "air" "contrast" "dark" "mint" "sunrise" �
 
 search: false
 
-# ヘッダーナビ
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Program"
-    url: /schedule/
-  - title: "Speakers"
-    url: /speakers/
-
-# フッター（任意）
 footer:
