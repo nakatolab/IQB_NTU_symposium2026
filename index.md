@@ -4,6 +4,10 @@ title: IQB_NTU_symposium2026
 permalink: /
 ---
 
+(ヘッダー画像)
+
+# IQB_NTU_symposium2026
+
 ### **Date:** April 13–14, 2026  
 ### **Location:** Cell Auditorium, Institute for Quantitative Biosciences, University of Tokyo, Tokyo, Japan 
 
@@ -29,9 +33,7 @@ The symposium aims to foster interdisciplinary discussion and international coll
 ## Venue Information
 
 **Institute for Quantitative Biosciences, the University of Tokyo**  
-Main Building
-Cell Auditorium
-Tokyo, Japan
+Cell Auditorium, Main Building, Tokyo, Japan
 
 The nearest station is Todaimae (東大前) Station of the Tokyo Metro Nanboku line.
 
