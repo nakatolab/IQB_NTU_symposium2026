@@ -6,18 +6,19 @@ permalink: /speakers/
 
 ## Keynote Speakers
 
-### Limsoon Wong  
-**Kwan-Im-Thong-Hood-Cho-Temple Professor**, School of Computing  
-**Deputy Dean**, NUS Graduate School  
+#### Limsoon Wong  
+Kwan-Im-Thong-Hood-Cho-Temple Professor, School of Computing  
+Deputy Dean, NUS Graduate School  
 National University of Singapore  
-Fellow of the Singapore National Academy of Science  
+Fellow of the Singapore National Academy of Science
+
 
 Official website:  
 https://www.comp.nus.edu.sg/~wongls/
 
 ---
 
-### Hirohide Saito  
+#### Hirohide Saito  
 **Professor**  
 Institute for Quantitative Biosciences (IQB)  
 The University of Tokyo  
@@ -157,3 +158,4 @@ National Taiwan University
 
 Official website:  
 https://www.idssp.ee.ntu.edu.tw/che-lin
+
