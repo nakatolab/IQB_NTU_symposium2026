@@ -1,7 +1,6 @@
 ---
 layout: splash
 title: IQB_NTU_symposium2026
-permalink: /
 ---
 
 (ヘッダー画像)
