@@ -1,15 +1,39 @@
-#theme: minima
-title: IQB_NTU_symposium2026
+title: "International Symposium on XXXXX"
+description: "A two-day international symposium on XXXXX."
+timezone: "Asia/Tokyo"
 
-#remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-remote_theme: pages-themes/dinky@v0.2.0
+url: ""            # 例: https://username.github.io  （独自ドメインなら https://example.org）
+baseurl: ""        # プロジェクトサイトなら "/repo-name"、ユーザーサイトや独自ドメインなら ""
 
-url: "https://nakatolab.github.io"
-baseurl: "/IQB_NTU_symposium2026"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
 
-include:
-  - _includes/head-custom.html
-  
+markdown: kramdown
+permalink: pretty
+
+minimal_mistakes_skin: "default"   # "air" "contrast" "dark" "mint" "sunrise" なども可
+
+search: false
+
+logo: "/assets/images/logo.png" 
+
+# ヘッダーナビ
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Program"
+    url: /schedule/
+  - title: "Speakers"
+    url: /speakers/
+  - title: "Venue"
+    url: /venue/
+
+# フッター（任意）
+footer:
+  links:
+    - label: "Contact"
+      url: "mailto:symposium2026@example.edu"
