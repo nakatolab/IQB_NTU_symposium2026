@@ -18,8 +18,6 @@ minimal_mistakes_skin: "contrastPermalink"   # "air" "contrast" "dark" "mint" "s
 
 search: false
 
-logo: "/assets/images/logo.png" 
-
 # ヘッダーナビ
 navigation:
   - title: "Home"
@@ -28,11 +26,6 @@ navigation:
     url: /schedule/
   - title: "Speakers"
     url: /speakers/
-  - title: "Venue"
-    url: /venue/
 
 # フッター（任意）
 footer:
-  links:
-    - label: "Contact"
-      url: "mailto:symposium2026@example.edu"
