@@ -17,10 +17,10 @@ The symposium aims to foster interdisciplinary discussion and international coll
 
 ## Organizing Chairs
 
-#### Katsuhiko Shirahige (Laboratory of Genome Structure and Function)
-#### Yukihide Tomari (Laboratory of RNA Function)
-#### Ryuichiro Nakato (Laboratory of Computational Genomics)
-#### Akihiro Funamizu (Laboratory of Neural Computation)
+- Katsuhiko Shirahige (Laboratory of Genome Structure and Function)
+- Yukihide Tomari (Laboratory of RNA Function)
+- Ryuichiro Nakato (Laboratory of Computational Genomics)
+- Akihiro Funamizu (Laboratory of Neural Computation)
 
 ## <a href="https://nakatolab.github.io/IQB_NTU_symposium2026/speakers.html">Speakers</a>
 
@@ -41,6 +41,6 @@ The nearest station is Todaimae (東大前) Station of the Tokyo Metro Nanboku l
 
 ## Sponsors
 
-#### Institute for Quantitative Biosciences
-#### Japanese Neural Network Society
-#### The Naito Foundation
+- Institute for Quantitative Biosciences
+- Japanese Neural Network Society
+- The Naito Foundation
