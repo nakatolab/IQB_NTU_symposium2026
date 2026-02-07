@@ -6,7 +6,11 @@ permalink: /speakers/
 
 ## Keynote Speakers
 
-#### ![Limsoon Wong](/assets/images/speakers/wong.jpg){: .align-left width="160"}
+#### ![Pai-Chi Li](/assets/images/speakers/Pai-Chi Li.jpg){: .align-left width="160"}
+Graduate Institute of Biomedical Electronics and Bioinformatics, National
+Taiwan University, Taipei, Taiwan
+
+https://sites.google.com/view/pai-chilislab/home
 
 #### Pai-Chi Li
 Graduate Institute of Biomedical Electronics and Bioinformatics, National
@@ -156,6 +160,7 @@ National Taiwan University
 
 Official website:  
 https://www.idssp.ee.ntu.edu.tw/che-lin
+
 
 
 
