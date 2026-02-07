@@ -27,7 +27,7 @@ permalink: /schedule/
 
 | Time | Program |
 |------|---------|
-| 09:30–10:10 | **Keynote Lecture 2**  <br> Yutaro Yamada (Sakana AI) |
+| 09:30–10:10 | **Keynote Lecture 2**: Dr. Yutaro Yamada (Sakana AI) |
 | 10:10–10:20 | Buffer |
 | 10:20–12:00 | Session 4 |
 | 12:00–13:00 | Lunch Break |
@@ -35,5 +35,6 @@ permalink: /schedule/
 | 14:40–15:20 | Coffee Break |
 | 15:20–16:40 | Session 6 |
 | 16:40 | Closing Remarks |
+
 
 
