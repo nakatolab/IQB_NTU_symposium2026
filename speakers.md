@@ -6,19 +6,15 @@ permalink: /speakers/
 
 ## Keynote Speakers
 
-#### Limsoon Wong  
-Kwan-Im-Thong-Hood-Cho-Temple Professor, School of Computing  
-Deputy Dean, NUS Graduate School  
-National University of Singapore  
-Fellow of the Singapore National Academy of Science
+#### Pai-Chi Li
+Graduate Institute of Biomedical Electronics and Bioinformatics, National
+Taiwan University, Taipei, Taiwan
 
-
-Official website:  
-https://www.comp.nus.edu.sg/~wongls/
+https://sites.google.com/view/pai-chilislab/home
 
 ---
 
-#### Hirohide Saito  
+#### Yutaro Yamada
 **Professor**  
 Institute for Quantitative Biosciences (IQB)  
 The University of Tokyo  
@@ -158,4 +154,5 @@ National Taiwan University
 
 Official website:  
 https://www.idssp.ee.ntu.edu.tw/che-lin
+
 
