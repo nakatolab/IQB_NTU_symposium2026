@@ -4,35 +4,71 @@ title: "Program"
 permalink: /schedule/
 ---
 
-## Program Schedule
+## Day 1
 
-All times are local time (UTC+X).
+**10:00–10:30**  
+Registration
+
+**10:30–10:40**  
+Opening Remarks
+
+**10:40–11:30**  
+Keynote Lecture 1  
+Prof. Pai-Chi Li
+
+**11:30**  
+Group Photo
+
+**11:30–13:00**  
+Lunch Break
+
+**13:00–14:20**  
+Session 1
+
+**14:20–14:40**  
+Coffee Break
+
+**14:40–16:20**  
+Session 2
+
+**16:20–17:00**  
+Coffee Break
+
+**17:00–17:50**  
+Session 3
+
+**17:50–18:30**  
+Buffer / Transition / Break
+
+**18:30–20:30**  
+Mixer  
+Shiki Kyodo Ryori Kadoya Sanjotei
 
 ---
 
-### Day 1 — March XX, 2026
+## Day 2
 
-| Time | Session |
-|-----:|---------|
-| 09:00–09:30 | Registration |
-| 09:30–09:45 | Opening Remarks |
-| 09:45–10:45 | Keynote Lecture 1 |
-| 10:45–11:00 | Coffee Break |
-| 11:00–12:30 | Session 1 |
-| 12:30–14:00 | Lunch |
-| 14:00–16:00 | Session 2 |
-| 16:00–16:30 | Poster Session |
+**09:30–10:10**  
+Keynote Lecture 2  
+Yutaro Yamada (Sakana AI)
 
----
+**10:10–10:20**  
+Buffer
 
-### Day 2 — March XX, 2026
+**10:20–12:00**  
+Session 4
 
-| Time | Session |
-|-----:|---------|
-| 09:30–10:30 | Keynote Lecture 2 |
-| 10:30–10:45 | Coffee Break |
-| 10:45–12:15 | Session 3 |
-| 12:15–13:45 | Lunch |
-| 13:45–15:45 | Session 4 |
-| 15:45–16:00 | Closing Remarks |
+**12:00–13:00**  
+Lunch Break
 
+**13:00–14:40**  
+Session 5
+
+**14:40–15:20**  
+Coffee Break
+
+**15:20–16:40**  
+Session 6
+
+**16:40**  
+Closing Remarks
