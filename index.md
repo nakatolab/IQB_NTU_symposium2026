@@ -25,7 +25,9 @@ The symposium aims to foster interdisciplinary discussion and international coll
 - Ryuichiro Nakato (Laboratory of Computational Genomics)
 - Akihiro Funamizu (Laboratory of Neural Computation)
 
-## <a href="https://nakatolab.github.io/IQB_NTU_symposium2026/speakers.html">Speakers</a>
+## <a href="https://nakatolab.github.io/IQB_NTU_symposium2026/speakers/">Speakers</a>
+
+## <a href="https://nakatolab.github.io/IQB_NTU_symposium2026/schedule/">Program</a>
 
 ## Venue Information
 
