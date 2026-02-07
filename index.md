@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: splash
 title: IQB_NTU_symposium2026
+permalink: /
 ---
 
 ### **Date:** April 13–14, 2026  
