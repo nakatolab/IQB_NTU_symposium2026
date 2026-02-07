@@ -15,7 +15,7 @@ permalink: /schedule/
 | 11:30–13:00 | Lunch Break |
 | 13:00–14:20 | **Session 1: Brain and neuroscience** |
 | 14:20–14:40 | Coffee Break |
-| 14:40–16:20 | **Session 2: Microscopy** |
+| 14:40–16:20 | **Session 2: Optical Biology** |
 | 16:20–17:00 | Coffee Break |
 | 17:00–17:50 | **Session 3: Student flush talks** |
 | 17:50–18:30 | Buffer / Transition |
@@ -35,6 +35,7 @@ permalink: /schedule/
 | 14:40–15:20 | Coffee Break |
 | 15:20–16:40 | **Session 6: Chromatin and disease** |
 | 16:40 | Closing Remarks |
+
 
 
 
