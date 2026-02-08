@@ -23,7 +23,7 @@ Sakana AI
 
 ---
 
-## Speakers from NTU
+## Speakers from National Taiwan University (NTU)
 
 ### Shi-Wei Chu  
 **Professor**  
@@ -42,12 +42,10 @@ National Taiwan University‪‪
 ### Ruby Yun-Ju Huang
 **Professor**    
 College of Medicine  
-National Taiwan University  
 
-**Visiting Professor**  
+
+**Visiting Professor at IQB**  
 Laboratory of Epithelial-Mesenchymal Plasticity  
-Institute for Quantitative Biosciences  
-The University of Tokyo
 
 [Website](https://labspotlight.ntu.edu.tw/labs/37)
 
@@ -75,7 +73,7 @@ National Taiwan University
 [Website](https://www.ee.ntu.edu.tw/bio1.php?id=1080916)
 
 
-## Speakers from IQB
+## Speakers from Institute for Quantitative Biosciences (IQB)
 
 ### Teruhiro Okuyama
 **Professor**  
@@ -99,8 +97,6 @@ Laboratory of Molecular Neurobiology
 ### Ryuichiro Nakato  
 **Associate Professor**  
 Laboratory of Computational Genomics
-Institute for Quantitative Biosciences  
-The University of Tokyo  
 
 [Website](https://nakatolab.iqb.u-tokyo.ac.jp/members/rnakato/index-e.html)
 
@@ -108,16 +104,12 @@ The University of Tokyo
 ### Donald Cameron
 **Associate Professor**  
 Laboratory of Oncoprotein Kinetics  
-Institute for Quantitative Biosciences  
-The University of Tokyo  
 
 [Website](https://www.iqb.u-tokyo.ac.jp/en/lab/cameron/)
 
 ### Kobayashi Hotaka
 **Visiting Associate Professor**  
 Laboratory of mRNA Translation  
-Institute for Quantitative Biosciences  
-The University of Tokyo  
 
 [Website](https://sites.google.com/view/h-kobayashi-lab/members/about-pi)
 
@@ -125,24 +117,18 @@ The University of Tokyo
 ### Akihiro Funamizu  
 **Lecturer**  
 Laboratory of Neural Computation  
-Institute for Quantitative Biosciences  
-The University of Tokyo  
 
 [Website](https://sites.google.com/g.ecc.u-tokyo.ac.jp/funamizu-lab/member_eng)
 
 ### Yusuke Sakai  
 **Lecturer**  
 Laboratory of Nucleic Acid Nanotechnology  
-Institute for Quantitative Biosciences  
-The University of Tokyo  
 
 [Website](https://www.iqb.u-tokyo.ac.jp/en/lab/sakai/)
 
 ### Kristian Jeppsson 
 **Lecturer**  
 Laboratory of DNA Topology and Genome Maintenance  
-Institute for Quantitative Biosciences  
-The University of Tokyo  
 
 [Website](https://www.iqb.u-tokyo.ac.jp/en/lab/jeppsson/)
 
@@ -163,5 +149,6 @@ The University of Tokyo
 
 - Saito Hirohide, Professor, Laboratory of RNP Synthetic Biology and Biotechnology, Institute for Quantitative Biosciences, The University of Tokyo
 - Akiyama Tetsu, Project Professor, Laboratory of Molecular Pathobiology, Institute for Quantitative Biosciences, The University of Tokyo
+
 
 
