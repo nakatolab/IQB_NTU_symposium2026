@@ -7,34 +7,57 @@ permalink: /speakers/
 ## Keynote Speakers
 
 #### Pai-Chi Li
-Graduate Institute of Biomedical Electronics and Bioinformatics, National
-Taiwan University, Taipei, Taiwan
+**Professor**
+Graduate Institute of Biomedical Electronics and Bioinformatics
+National Taiwan University
 
-https://sites.google.com/view/pai-chilislab/home
+[Lab website](https://sites.google.com/view/pai-chilislab/home)
 
 ---
 
 #### Yutaro Yamada
-**Professor**  
+**Position**  
 Sakana AI
 
-Official website:  
-https://www.iqb.u-tokyo.ac.jp/en/lab/saito/
+[Company website](https://sakana.ai/)
 
 ---
 
-## Speakers
+## Invited Speakers
 
+### Shi-Wei Chu
+**Professor**
+Department of Physics
+National Taiwan University
 
-### Huang Ruby Yun-Ju
+[Lab website](https://www.phys.ntu.edu.tw/enphysics/swchu.html)
+
+### Hsueh-Fen Juan
+**Professor**
+Department of Life Science
+National Taiwan University‪‪
+
+[Lab website](https://sbl.csie.org/JuanLab/doku.php)
+
+### Ruby Yun-Ju Huang
 **Professor**  
-Department of Physics  
+College of Medicine
 National Taiwan University  
 
-Visiting Professor, Laboratory of Epithelial-Mesenchymal Plasticity, Institute for Quantitative Biosciences, The University of Tokyo
+**Visiting Professor**
+Laboratory of Epithelial-Mesenchymal Plasticity
+Institute for Quantitative Biosciences
+The University of Tokyo
 
-Official website:  
-https://www.phys.ntu.edu.tw/enphysics/goan.html
+[Lab website](https://labspotlight.ntu.edu.tw/labs/37)
+
+
+### Che Lin  
+**Professor**  
+Department of Electrical Engineering  
+National Taiwan University  
+
+[Lab website](https://www.idssp.ee.ntu.edu.tw/che-lin)
 
 
 ### Hsi-Sheng Goan  
@@ -42,28 +65,14 @@ https://www.phys.ntu.edu.tw/enphysics/goan.html
 Department of Physics  
 National Taiwan University  
 
-Official website:  
-https://www.phys.ntu.edu.tw/enphysics/goan.html
+[Lab website](https://www.phys.ntu.edu.tw/enphysics/goan.html)
 
----
-
-### Yuan-Chung Cheng  
+### Hao-Li Liu
 **Professor**  
-Department of Chemistry  
+Department of Physics  
 National Taiwan University  
 
-Official website:  
-https://www.ch.ntu.edu.tw/en/yuanchung.html
-
----
-
-### Che Lin  
-**Professor**  
-Department of Electrical Engineering  
-National Taiwan University  
-
-Official website:  
-https://www.idssp.ee.ntu.edu.tw/che-lin
+[Lab website](https://ntuee207.wixsite.com/website)
 
 ---
 ### Teruhiro Okuyama
@@ -139,4 +148,5 @@ https://www.iqb.u-tokyo.ac.jp/en/lab/funamizu/
 - Kobayashi Hotaka, Visiting Associate Professor, Laboratory of mRNA Translation, Institute for Quantitative Biosciences, The University of Tokyo
 - Cameron Donald, Associate Professor, Laboratory of Oncoprotein Kinetics, Institute for Quantitative Biosciences, The University of Tokyo
 - Högberg Björn, Visiting Professor, Laboratory of Molecular Design, Institute for Quantitative Biosciences, The University of Tokyo :contentReference[oaicite:4]{index=4}
+
 
