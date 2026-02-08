@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body,
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.hero-overlay {
+  background: linear-gradient(
+    135deg,
+    #1e3c72,
+    #2a5298
+  );
+  padding: 6rem 2rem;
+  color: #ffffff;
+}
