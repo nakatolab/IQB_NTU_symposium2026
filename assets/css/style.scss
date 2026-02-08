@@ -7,13 +7,20 @@ body,
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Noto Sans JP', sans-serif;
 }
+/* 全体背景色 */
+body {
+  background-color: #f7f9fc;
+}
 
+/* トップHero背景 */
 .hero-overlay {
-  background: linear-gradient(
-    135deg,
-    #1e3c72,
-    #2a5298
-  );
+  background-image: linear-gradient(
+      rgba(0,0,0,0.45),
+      rgba(0,0,0,0.45)
+    ),
+    url("/assets/images/hero.jpg");
+  background-size: cover;
+  background-position: center;
   padding: 6rem 2rem;
   color: #ffffff;
 }
