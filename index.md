@@ -45,6 +45,7 @@ Cell Auditorium, Main Building, Tokyo, Japan
 The nearest station is Todaimae (東大前) Station of the Tokyo Metro Nanboku line.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5447.958947290992!2d139.75808313826528!3d35.716975933715915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c324c8e6e53%3A0xbf06c36f43d7af77!2z44CSMTEzLTAwMzIg5p2x5Lqs6YO95paH5Lqs5Yy65byl55Sf77yR5LiB55uu77yRIOWIhuWtkOe0sOiDnueUn-eJqeWtpueglOeptuaJgA!5e0!3m2!1sja!2sjp!4v1728531836066!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{: .text-center }
 
 ---
 
