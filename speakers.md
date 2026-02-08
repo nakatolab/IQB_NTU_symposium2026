@@ -7,8 +7,8 @@ permalink: /speakers/
 ## Keynote Speakers
 
 #### Pai-Chi Li
-**Professor**
-Graduate Institute of Biomedical Electronics and Bioinformatics
+**Professor**  
+Graduate Institute of Biomedical Electronics and Bioinformatics  
 National Taiwan University
 
 [Website](https://sites.google.com/view/pai-chilislab/home)
@@ -25,28 +25,28 @@ Sakana AI
 
 ## Invited Speakers
 
-### Shi-Wei Chu
-**Professor**
-Department of Physics<br>
+### Shi-Wei Chu  
+**Professor**  
+Department of Physics  
 National Taiwan University
 
 [Website](https://www.phys.ntu.edu.tw/enphysics/swchu.html)
 
 ### Hsueh-Fen Juan
-**Professor**
-Department of Life Science
+**Professor**  
+Department of Life Science  
 National Taiwan University‪‪
 
 [Website](https://sbl.csie.org/JuanLab/doku.php?id=PI:Hsueh-Fen%20Juan)
 
 ### Ruby Yun-Ju Huang
-**Professor**  
-College of Medicine<br>
+**Professor**    
+College of Medicine  
 National Taiwan University  
 
-**Visiting Professor**
-Laboratory of Epithelial-Mesenchymal Plasticity
-Institute for Quantitative Biosciences
+**Visiting Professor**  
+Laboratory of Epithelial-Mesenchymal Plasticity  
+Institute for Quantitative Biosciences  
 The University of Tokyo
 
 [Website](https://labspotlight.ntu.edu.tw/labs/37)
@@ -77,59 +77,84 @@ National Taiwan University
 ---
 ### Teruhiro Okuyama
 **Professor**  
-Laboratory of Behavioral Neuroscience
-Institute for Quantitative Biosciences
+Laboratory of Behavioral Neuroscience  
+Institute for Quantitative Biosciences  
 The University of Tokyo  
 
-Official website:  
-https://www.iqb.u-tokyo.ac.jp/en/lab/okuyama/
+[Website](https://www.iqb.u-tokyo.ac.jp/okuyamalab/team/teruhiro-okuyama/)
 
 ### Takashi Fukaya  
 **Professor**  
-Laboratory of Transcription Dynamics
-Institute for Quantitative Biosciences
+Laboratory of Transcription Dynamics  
+Institute for Quantitative Biosciences  
 The University of Tokyo  
 
-Official website:  
-https://www.iqb.u-tokyo.ac.jp/en/lab/fukaya/
+[Website](https://sites.google.com/view/fukaya-lab-iqb/people)
 
----
+
+### Yusuke Kishi  
+**Associate Professor**  
+Laboratory of Molecular Neurobiology  
+Institute for Quantitative Biosciences  
+The University of Tokyo  
+
+[Website](https://www.kishilab.iqb.u-tokyo.ac.jp/en/team/%E5%B2%B8%E3%80%80%E9%9B%84%E4%BB%8B)
 
 ### Ryuichiro Nakato  
 **Associate Professor**  
-Institute for Quantitative Biosciences
+Institute for Quantitative Biosciences  
 The University of Tokyo  
 
-Official website:  
-https://www.iqb.u-tokyo.ac.jp/en/lab/nakato/
+[Website](https://nakatolab.iqb.u-tokyo.ac.jp/members/rnakato/index-e.html)
+
+
+### Donald Cameron
+**Associate Professor**  
+Laboratory of Oncoprotein Kinetics  
+Institute for Quantitative Biosciences  
+The University of Tokyo  
+
+[Website](https://www.iqb.u-tokyo.ac.jp/en/lab/cameron/)
+
+### Kobayashi Hotaka
+**Visiting Associate Professor**  
+Laboratory of mRNA Translation  
+Institute for Quantitative Biosciences  
+The University of Tokyo  
+
+[Website](https://sites.google.com/view/h-kobayashi-lab/members/about-pi)
 
 ---
 
 ### Akihiro Funamizu  
 **Lecturer**  
-Institute for Quantitative Biosciences
+Laboratory of Neural Computation  
+Institute for Quantitative Biosciences  
 The University of Tokyo  
 
-Official website:  
-https://www.iqb.u-tokyo.ac.jp/en/lab/funamizu/
+[Website](https://sites.google.com/g.ecc.u-tokyo.ac.jp/funamizu-lab/member_eng)
 
 ### Yusuke Sakai  
 **Lecturer**  
-Laboratory of Nucleic Acid Nanotechnology
-Institute for Quantitative Biosciences
+Laboratory of Nucleic Acid Nanotechnology  
+Institute for Quantitative Biosciences  
 The University of Tokyo  
 
-Official website:  
-https://www.iqb.u-tokyo.ac.jp/en/lab/funamizu/
+[Website](https://researchmap.jp/yusuke-dna?lang=en)
 
 ### Kristian Jeppsson 
 **Lecturer**  
-Laboratory of DNA Topology and Genome Maintenance
-Institute for Quantitative Biosciences
+Laboratory of DNA Topology and Genome Maintenance  
+Institute for Quantitative Biosciences  
 The University of Tokyo  
 
-Official website:  
-https://www.iqb.u-tokyo.ac.jp/en/lab/funamizu/
+[Website](https://www.iqb.u-tokyo.ac.jp/en/lab/jeppsson/)
+
+
+[Website]()
+[Website]()
+[Website]()
+
 
 ---
 
@@ -137,17 +162,9 @@ https://www.iqb.u-tokyo.ac.jp/en/lab/funamizu/
 - Shirahige Katsuhiko, Professor, Laboratory of Genome Structure and Function, Institute for Quantitative Biosciences, The University of Tokyo
 - Tomari Yukihide, Professor, Laboratory of RNA Function, Institute for Quantitative Biosciences, The University of Tokyo
 - Kurumizaka Hitoshi, Professor, Laboratory of Chromatin Structure and Function, Institute for Quantitative Biosciences, The University of Tokyo
-- Kishi Yusuke, Associate Professor, Laboratory of Molecular Neur
 - Okada Yuki, Professor, Laboratory of Pathology and Development, Institute for Quantitative Biosciences, The University of Tokyo
 - Shinkura Reiko, Professor, Laboratory of Immunology and Infection Control, Institute for Quantitative Biosciences, The University of Tokyo
 
 - Saito Hirohide, Professor, Laboratory of RNP Synthetic Biology and Biotechnology, Institute for Quantitative Biosciences, The University of Tokyo
 - Akiyama Tetsu, Project Professor, Laboratory of Molecular Pathobiology, Institute for Quantitative Biosciences, The University of Tokyo
-- Nakato Ryuichiro, Associate Professor, Laboratory of Computational Genomics, Institute for Quantitative Biosciences, The University of Tokyo
-- Funamizu Akihiro, Lecturer, Laboratory of Neural Computation, Institute for Quantitative Biosciences, The University of Tokyo
-- Kobayashi Hotaka, Visiting Associate Professor, Laboratory of mRNA Translation, Institute for Quantitative Biosciences, The University of Tokyo
-- Cameron Donald, Associate Professor, Laboratory of Oncoprotein Kinetics, Institute for Quantitative Biosciences, The University of Tokyo
-- Högberg Björn, Visiting Professor, Laboratory of Molecular Design, Institute for Quantitative Biosciences, The University of Tokyo :contentReference[oaicite:4]{index=4}
-
-
 
