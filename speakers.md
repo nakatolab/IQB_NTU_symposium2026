@@ -27,14 +27,12 @@ Sakana AI
 
 ### Shi-Wei Chu  
 **Professor**  
-Biomedical Optics Laboratory  
 Department of Physics  
 
 [Website](https://www.phys.ntu.edu.tw/enphysics/swchu.html)
 
 ### Hsueh-Fen Juan
 **Professor**  
-Systems Biology Laboratory  
 Department of Life Science  ‪‪
 
 [Website](https://sbl.csie.org/JuanLab/doku.php?id=PI:Hsueh-Fen%20Juan)
@@ -51,7 +49,6 @@ Laboratory of Epithelial-Mesenchymal Plasticity
 
 ### Che Lin  
 **Professor**  
-iDSSP Laboratory  
 Department of Electrical Engineering  
 
 [Website](https://www.idssp.ee.ntu.edu.tw/che-lin)
@@ -129,24 +126,44 @@ Laboratory of DNA Topology and Genome Maintenance
 
 [Website](https://www.iqb.u-tokyo.ac.jp/en/lab/jeppsson/)
 
-
-[Website]()
-[Website]()
-[Website]()
-
-
 ---
 
+### Fumiko Kawasaki
+**Research Associate**  
+Laboratory of RNA Function
 
-- Shirahige Katsuhiko, Professor, Laboratory of Genome Structure and Function, Institute for Quantitative Biosciences, The University of Tokyo
-- Tomari Yukihide, Professor, Laboratory of RNA Function, Institute for Quantitative Biosciences, The University of Tokyo
-- Kurumizaka Hitoshi, Professor, Laboratory of Chromatin Structure and Function, Institute for Quantitative Biosciences, The University of Tokyo
-- Okada Yuki, Professor, Laboratory of Pathology and Development, Institute for Quantitative Biosciences, The University of Tokyo
-- Shinkura Reiko, Professor, Laboratory of Immunology and Infection Control, Institute for Quantitative Biosciences, The University of Tokyo
+[Website](https://www.iqb.u-tokyo.ac.jp/tomari/personnel.php)
 
-- Saito Hirohide, Professor, Laboratory of RNP Synthetic Biology and Biotechnology, Institute for Quantitative Biosciences, The University of Tokyo
-- Akiyama Tetsu, Project Professor, Laboratory of Molecular Pathobiology, Institute for Quantitative Biosciences, The University of Tokyo
+### Genta Furuya
+**Assistant Professor**  
+Laboratory of Immunology and Infection Control
+
+[Website](https://www.iqb.u-tokyo.ac.jp/shinkuralab/member-en.html)
+
+### Masashi Hada
+**Assistant Professor**  
+Laboratory of Pathology and Development
+
+[Website](https://okadalab.iqb.u-tokyo.ac.jp/people-en/)
+
+### Shunsuke Sumi
+**Project Research Associate**  
+Laboratory of RNP Synthetic Biology and Biotechnology
+
+[Website](https://www.iqb.u-tokyo.ac.jp/hirohidesaito-tokyo/en/member/)
 
 
+### Chenghan Ho
+**Project Researcher**  
+Laboratory of Chromatin Structure and Function
+
+[Website](https://www.iqb.u-tokyo.ac.jp/kurumizakalab/eng/member/index.html)
+
+
+### Shoin Tei
+**Project Researcher**  
+Laboratory of Genome Structure & Function
+
+[Website](https://www.iqb.u-tokyo.ac.jp/chromosomeinformatics/index.html)
 
 
