@@ -11,7 +11,7 @@ permalink: /speakers/
 Graduate Institute of Biomedical Electronics and Bioinformatics
 National Taiwan University
 
-[Lab website](https://sites.google.com/view/pai-chilislab/home)
+[Website](https://sites.google.com/view/pai-chilislab/home)
 
 ---
 
@@ -27,21 +27,21 @@ Sakana AI
 
 ### Shi-Wei Chu
 **Professor**
-Department of Physics
+Department of Physics<br>
 National Taiwan University
 
-[Lab website](https://www.phys.ntu.edu.tw/enphysics/swchu.html)
+[Website](https://www.phys.ntu.edu.tw/enphysics/swchu.html)
 
 ### Hsueh-Fen Juan
 **Professor**
 Department of Life Science
 National Taiwan University‪‪
 
-[Lab website](https://sbl.csie.org/JuanLab/doku.php)
+[Website](https://sbl.csie.org/JuanLab/doku.php?id=PI:Hsueh-Fen%20Juan)
 
 ### Ruby Yun-Ju Huang
 **Professor**  
-College of Medicine
+College of Medicine<br>
 National Taiwan University  
 
 **Visiting Professor**
@@ -49,7 +49,7 @@ Laboratory of Epithelial-Mesenchymal Plasticity
 Institute for Quantitative Biosciences
 The University of Tokyo
 
-[Lab website](https://labspotlight.ntu.edu.tw/labs/37)
+[Website](https://labspotlight.ntu.edu.tw/labs/37)
 
 
 ### Che Lin  
@@ -57,7 +57,7 @@ The University of Tokyo
 Department of Electrical Engineering  
 National Taiwan University  
 
-[Lab website](https://www.idssp.ee.ntu.edu.tw/che-lin)
+[Website](https://www.idssp.ee.ntu.edu.tw/che-lin)
 
 
 ### Hsi-Sheng Goan  
@@ -65,14 +65,14 @@ National Taiwan University
 Department of Physics  
 National Taiwan University  
 
-[Lab website](https://www.phys.ntu.edu.tw/enphysics/goan.html)
+[Website](https://www.phys.ntu.edu.tw/enphysics/goan.html)
 
 ### Hao-Li Liu
 **Professor**  
 Department of Physics  
 National Taiwan University  
 
-[Lab website](https://ntuee207.wixsite.com/website)
+[Website](https://www.ee.ntu.edu.tw/bio1.php?id=1080916)
 
 ---
 ### Teruhiro Okuyama
@@ -148,5 +148,6 @@ https://www.iqb.u-tokyo.ac.jp/en/lab/funamizu/
 - Kobayashi Hotaka, Visiting Associate Professor, Laboratory of mRNA Translation, Institute for Quantitative Biosciences, The University of Tokyo
 - Cameron Donald, Associate Professor, Laboratory of Oncoprotein Kinetics, Institute for Quantitative Biosciences, The University of Tokyo
 - Högberg Björn, Visiting Professor, Laboratory of Molecular Design, Institute for Quantitative Biosciences, The University of Tokyo :contentReference[oaicite:4]{index=4}
+
 
 
