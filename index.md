@@ -5,7 +5,8 @@ title: IQB_NTU_symposium2026
 
 (ヘッダー画像)
 
-# The IQB-NTU International Symposium 2026:<br>"Quantitative Biosciences and Advanced Technologies"
+# The IQB-NTU International Symposium 2026:
+<span class="subtitle">"Quantitative Biosciences and Advanced Technologies"</span>
 {: .text-center }
 
 ### April 13–14, 2026  
