@@ -5,7 +5,8 @@ url: "https://nakatolab.github.io"
 baseurl: "/IQB_NTU_symposium2026"
 
 #remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-remote_theme: "jekyll/minima"
+
+theme: jekyll-theme-time-machine
 
 plugins:
   - jekyll-include-cache
