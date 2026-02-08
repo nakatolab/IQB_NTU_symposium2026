@@ -36,33 +36,6 @@ a:hover {
   color: #163a78;
 }
 
-/* Top hero: “official” look */
 .hero-overlay {
-  background-image:
-    linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-    url("/assets/images/hero.jpg");
-  background-size: cover;
-  background-position: center;
-  border-radius: 16px;
-  padding: 5.5rem 2rem;
-  color: #ffffff;
-  box-shadow: 0 10px 36px rgba(0,0,0,0.18);
-}
-
-/* Ensure text in the hero stays white */
-.hero-overlay h1,
-.hero-overlay h2,
-.hero-overlay h3,
-.hero-overlay p,
-.hero-overlay a {
-  color: #ffffff;
-}
-
-/* Optional: subtitle styling if you use <span class="subtitle"> */
-.subtitle {
-  display: block;
-  font-size: 0.58em;
-  font-weight: 400;
-  margin-top: 0.35em;
-  opacity: 0.92;
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
 }
