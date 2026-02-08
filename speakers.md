@@ -23,7 +23,7 @@ Sakana AI
 
 ---
 
-## Invited Speakers
+## Speakers from NTU
 
 ### Shi-Wei Chu  
 **Professor**  
@@ -74,20 +74,18 @@ National Taiwan University
 
 [Website](https://www.ee.ntu.edu.tw/bio1.php?id=1080916)
 
----
+
+## Speakers from IQB
+
 ### Teruhiro Okuyama
 **Professor**  
 Laboratory of Behavioral Neuroscience  
-Institute for Quantitative Biosciences  
-The University of Tokyo  
 
 [Website](https://www.iqb.u-tokyo.ac.jp/okuyamalab/team/teruhiro-okuyama/)
 
 ### Takashi Fukaya  
 **Professor**  
 Laboratory of Transcription Dynamics  
-Institute for Quantitative Biosciences  
-The University of Tokyo  
 
 [Website](https://sites.google.com/view/fukaya-lab-iqb/people)
 
@@ -95,13 +93,12 @@ The University of Tokyo
 ### Yusuke Kishi  
 **Associate Professor**  
 Laboratory of Molecular Neurobiology  
-Institute for Quantitative Biosciences  
-The University of Tokyo  
 
 [Website](https://www.kishilab.iqb.u-tokyo.ac.jp/en/team/%E5%B2%B8%E3%80%80%E9%9B%84%E4%BB%8B)
 
 ### Ryuichiro Nakato  
 **Associate Professor**  
+Laboratory of Computational Genomics
 Institute for Quantitative Biosciences  
 The University of Tokyo  
 
@@ -124,7 +121,6 @@ The University of Tokyo
 
 [Website](https://sites.google.com/view/h-kobayashi-lab/members/about-pi)
 
----
 
 ### Akihiro Funamizu  
 **Lecturer**  
@@ -140,7 +136,7 @@ Laboratory of Nucleic Acid Nanotechnology
 Institute for Quantitative Biosciences  
 The University of Tokyo  
 
-[Website](https://researchmap.jp/yusuke-dna?lang=en)
+[Website](https://www.iqb.u-tokyo.ac.jp/en/lab/sakai/)
 
 ### Kristian Jeppsson 
 **Lecturer**  
@@ -167,4 +163,5 @@ The University of Tokyo
 
 - Saito Hirohide, Professor, Laboratory of RNP Synthetic Biology and Biotechnology, Institute for Quantitative Biosciences, The University of Tokyo
 - Akiyama Tetsu, Project Professor, Laboratory of Molecular Pathobiology, Institute for Quantitative Biosciences, The University of Tokyo
+
 
