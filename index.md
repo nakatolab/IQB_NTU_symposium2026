@@ -5,7 +5,7 @@ title: IQB_NTU_symposium2026
 
 (ヘッダー画像)
 
-# The IQB-NTU International Symposium 2026:
+# The IQB-NTU International Symposium 2026:<br>
 <span class="subtitle">"Quantitative Biosciences and Advanced Technologies"</span>
 {: .text-center }
 
