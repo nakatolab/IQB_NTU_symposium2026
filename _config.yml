@@ -4,7 +4,8 @@ timezone: "Asia/Tokyo"
 url: "https://nakatolab.github.io"
 baseurl: "/IQB_NTU_symposium2026"
 
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+#remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "jekyll/minima"
 
 plugins:
   - jekyll-include-cache
