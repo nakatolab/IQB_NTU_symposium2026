@@ -27,22 +27,21 @@ Sakana AI
 
 ### Shi-Wei Chu  
 **Professor**  
+Biomedical Optics Laboratory  
 Department of Physics  
-National Taiwan University
 
 [Website](https://www.phys.ntu.edu.tw/enphysics/swchu.html)
 
 ### Hsueh-Fen Juan
 **Professor**  
-Department of Life Science  
-National Taiwan University‪‪
+Systems Biology Laboratory  
+Department of Life Science  ‪‪
 
 [Website](https://sbl.csie.org/JuanLab/doku.php?id=PI:Hsueh-Fen%20Juan)
 
 ### Ruby Yun-Ju Huang
 **Professor**    
 College of Medicine  
-
 
 **Visiting Professor at IQB**  
 Laboratory of Epithelial-Mesenchymal Plasticity  
@@ -52,8 +51,8 @@ Laboratory of Epithelial-Mesenchymal Plasticity
 
 ### Che Lin  
 **Professor**  
+iDSSP Laboratory  
 Department of Electrical Engineering  
-National Taiwan University  
 
 [Website](https://www.idssp.ee.ntu.edu.tw/che-lin)
 
@@ -61,14 +60,12 @@ National Taiwan University
 ### Hsi-Sheng Goan  
 **Professor**  
 Department of Physics  
-National Taiwan University  
 
 [Website](https://www.phys.ntu.edu.tw/enphysics/goan.html)
 
 ### Hao-Li Liu
 **Professor**  
 Department of Physics  
-National Taiwan University  
 
 [Website](https://www.ee.ntu.edu.tw/bio1.php?id=1080916)
 
@@ -149,6 +146,7 @@ Laboratory of DNA Topology and Genome Maintenance
 
 - Saito Hirohide, Professor, Laboratory of RNP Synthetic Biology and Biotechnology, Institute for Quantitative Biosciences, The University of Tokyo
 - Akiyama Tetsu, Project Professor, Laboratory of Molecular Pathobiology, Institute for Quantitative Biosciences, The University of Tokyo
+
 
 
 
