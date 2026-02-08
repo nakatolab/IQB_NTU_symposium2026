@@ -10,7 +10,7 @@ title: IQB_NTU_symposium2026
 # "Quantitative Biosciences and Advanced Technologies"
 {: .text-center }
 
-### April 13–14, 2026  
+## April 13–14, 2026  
 {: .text-center }
 
 ### Cell Auditorium, Institute for Quantitative Biosciences
