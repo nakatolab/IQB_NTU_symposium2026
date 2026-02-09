@@ -146,6 +146,12 @@ Laboratory of Pathology and Development
 
 [Website](https://okadalab.iqb.u-tokyo.ac.jp/people-en/)
 
+### Tomoatsu Hayashi 
+**Project Research Associate**  
+Laboratory of Molecular Pathobiology
+
+[Website](https://researchmap.jp/tom_hayashi)
+
 ### Shunsuke Sumi
 **Project Research Associate**  
 Laboratory of RNP Synthetic Biology and Biotechnology
@@ -165,6 +171,7 @@ Laboratory of Chromatin Structure and Function
 Laboratory of Genome Structure & Function
 
 [Website](https://www.iqb.u-tokyo.ac.jp/chromosomeinformatics/index.html)
+
 
 
 
