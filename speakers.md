@@ -16,7 +16,7 @@ National Taiwan University
 ---
 
 #### Yutaro Yamada
-**Position**  
+**Research Scientist**  
 Sakana AI
 
 [Company website](https://sakana.ai/)
@@ -165,5 +165,6 @@ Laboratory of Chromatin Structure and Function
 Laboratory of Genome Structure & Function
 
 [Website](https://www.iqb.u-tokyo.ac.jp/chromosomeinformatics/index.html)
+
 
 
