@@ -1,11 +1,11 @@
 ---
 layout: splash
-title: IQB_NTU_symposium2026
+title: UTokyo_NTU_symposium2026
 ---
 
 (ヘッダー画像)
 
-# The IQB-NTU International Symposium 2026:
+# The UTokyo-NTU International Symposium 2026:
 {: .text-center }
 # "Quantitative Biosciences and Advanced Technologies"
 {: .text-center }
