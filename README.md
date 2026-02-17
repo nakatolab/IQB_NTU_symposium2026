@@ -1,1 +1,1 @@
-# IQB_NTU_symposium2026
+# UTokyo_NTU_symposium2026
