@@ -3,7 +3,7 @@ layout: splash
 title: UTokyo_NTU_symposium2026
 ---
 
-<img src="./UTokyo_NTU_symposium2026-logo.jpg" alt="Symposium logo">
+<center><img src="./UTokyo_NTU_symposium2026-logo.jpg" alt="Symposium logo"></center>
 
 # The UTokyo-NTU International Symposium 2026:
 {: .text-center }
