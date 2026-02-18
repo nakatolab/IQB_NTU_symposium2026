@@ -33,9 +33,15 @@ The symposium aims to foster interdisciplinary discussion and international coll
 - Ryuichiro Nakato (Laboratory of Computational Genomics)
 - Akihiro Funamizu (Laboratory of Neural Computation)
 
-## <a href="https://nakatolab.github.io/IQB_NTU_symposium2026/speakers/">Speakers</a>
+## <a href="https://ut-ntu-2026.iqb.u-tokyo.ac.jp//speakers/">Speakers</a>
 
-## <a href="https://nakatolab.github.io/IQB_NTU_symposium2026/schedule/">Program</a>
+## <a href="https://ut-ntu-2026.iqb.u-tokyo.ac.jp/schedule/">Program</a>
+
+## Registration
+
+Please register using the Google Form. Once your registration is confirmed, we will send you with details about accessing the building on the day of the event.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdYvO_5Xonx8GP5dVjzsLWubKh5DnpTA9UN-MLC6yaDRf5Sgw/viewform?usp=sharing&ouid=106344295041816323435&pli=1&authuser=0">Google Form</a>
 
 ## Venue Information
 
