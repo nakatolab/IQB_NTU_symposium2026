@@ -1,8 +1,10 @@
 title: UTokyo_NTU_symposium2026
 timezone: "Asia/Tokyo"
 
-url: "https://nakatolab.github.io"
-baseurl: "/IQB_NTU_symposium2026"
+#url: "https://nakatolab.github.io"
+#baseurl: "/IQB_NTU_symposium2026"
+url: "https://ut-ntu-2026.iqb.u-tokyo.ac.jp"
+baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
