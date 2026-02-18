@@ -4,6 +4,7 @@ title: UTokyo_NTU_symposium2026
 ---
 
 <center><img src="./UTokyo_NTU_symposium2026-logo.jpg" alt="Symposium logo"></center>
+<br>
 
 # The UTokyo-NTU International Symposium 2026:
 {: .text-center }
