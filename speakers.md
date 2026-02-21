@@ -140,6 +140,13 @@ Laboratory of Immunology and Infection Control
 
 [Website](https://www.iqb.u-tokyo.ac.jp/shinkuralab/member-en.html)
 
+### Takumi Maruhashi
+**Assistant Professor**  
+Laboratory of Molecular Immunology
+
+[Website](https://www.iqb.u-tokyo.ac.jp/okazakilab/eng/index.html)
+
+
 ### Masashi Hada
 **Assistant Professor**  
 Laboratory of Pathology and Development
@@ -177,6 +184,7 @@ Laboratory of Chromatin Structure and Function / Central Laboratory of IQB
 Laboratory of Genome Structure & Function
 
 [Website](https://www.iqb.u-tokyo.ac.jp/chromosomeinformatics/index.html)
+
 
 
 
