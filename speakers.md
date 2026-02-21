@@ -165,6 +165,12 @@ Laboratory of RNP Synthetic Biology and Biotechnology
 
 [Website](https://www.iqb.u-tokyo.ac.jp/hirohidesaito-tokyo/en/member/)
 
+### Shoin Tei
+**Project Researcher**  
+Laboratory of Genome Structure & Function
+
+[Website](https://www.iqb.u-tokyo.ac.jp/chromosomeinformatics/index.html)
+
 ### Chenghan Ho
 **Project Researcher**  
 Laboratory of Chromatin Structure and Function
@@ -178,16 +184,3 @@ Laboratory of Chromatin Structure and Function / Central Laboratory of IQB
 [Website](https://www.iqb.u-tokyo.ac.jp/kurumizakalab/eng/member/index.html)
 
 [Central Laboratory Website](https://www.iqb.u-tokyo.ac.jp/en/about/central-laboratory/)
-
-### Shoin Tei
-**Project Researcher**  
-Laboratory of Genome Structure & Function
-
-[Website](https://www.iqb.u-tokyo.ac.jp/chromosomeinformatics/index.html)
-
-
-
-
-
-
-
