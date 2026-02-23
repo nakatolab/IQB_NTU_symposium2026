@@ -5,7 +5,7 @@ title: UTokyo_NTU_symposium2026
 
 <div class="hero-panel text-center">
 
-<img src="/assets/images/UTokyo_NTU_symposium2026-logo.jpg" alt="Symposium logo" class="hero-logo">
+<img src="./assets/images/UTokyo_NTU_symposium2026-logo.jpg" alt="Symposium logo" class="hero-logo">
 
 # The UTokyo-NTU International Symposium 2026:<br>
 <span class="hero-subtitle">Quantitative Biosciences and Advanced Technologies</span>
