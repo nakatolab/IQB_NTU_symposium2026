@@ -41,3 +41,36 @@ body {
   background: #f6f8ff;
   border-radius: 8px;
 }
+
+.hero-panel {
+  background: linear-gradient(135deg, #1e3c72, #2a5298);
+  border-radius: 16px;
+  padding: 3.2rem 1.6rem;
+  color: #ffffff;
+  box-shadow: 0 10px 36px rgba(0,0,0,0.16);
+  margin-top: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.hero-panel h1,
+.hero-panel h2,
+.hero-panel h3,
+.hero-panel p {
+  color: #ffffff;
+}
+
+.hero-subtitle {
+  display: block;
+  font-size: 0.6em;
+  font-weight: 400;
+  margin-top: 0.35em;
+  opacity: 0.95;
+}
+
+.hero-logo {
+  max-width: 320px;
+  width: 70%;
+  height: auto;
+  margin: 0 auto 1.2rem auto;
+  display: block;
+}
