@@ -16,7 +16,7 @@ plugins:
 markdown: kramdown
 permalink: pretty
 
-minimal_mistakes_skin: "mint" #"contrast" # "air" "contrast" "dark" "mint" "sunrise" なども可
+minimal_mistakes_skin: "air" #"contrast" # "air" "contrast" "dark" "mint" "sunrise" なども可
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 
 search: false
