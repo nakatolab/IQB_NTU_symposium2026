@@ -3,21 +3,19 @@ layout: splash
 title: UTokyo_NTU_symposium2026
 ---
 
-<center><img src="./UTokyo_NTU_symposium2026-logo.jpg" alt="Symposium logo"></center>
-<br>
+<div class="hero-panel text-center">
 
-# The UTokyo-NTU International Symposium 2026:
-{: .text-center }
-# "Quantitative Biosciences and Advanced Technologies"
-{: .text-center }
+<img src="/assets/images/UTokyo_NTU_symposium2026-logo.jpg" alt="Symposium logo" class="hero-logo">
 
-## April 13–14, 2026  
-{: .text-center }
+# The UTokyo-NTU International Symposium 2026:<br>
+<span class="hero-subtitle">Quantitative Biosciences and Advanced Technologies</span>
 
-### Cell Auditorium, Institute for Quantitative Biosciences
-{: .text-center }
-### University of Tokyo, Tokyo, Japan 
-{: .text-center }
+### April 13–14, 2026  
+### Cell Auditorium, Institute for Quantitative Biosciences, The University of Tokyo  
+### Tokyo, Japan
+
+</div>
+
 
 ---
 
