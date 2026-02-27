@@ -4,9 +4,9 @@ title: "Program"
 permalink: /schedule/
 ---
 
-# Schedule (Tentative)
+# Schedule
 
-## Day 1
+## Day 1 (April 13)
 
 | Time | Program |
 |------|---------|
@@ -25,7 +25,7 @@ permalink: /schedule/
 
 ---
 
-## Day 2
+## Day 2 (April 14)
 
 | Time | Program |
 |------|---------|
@@ -37,6 +37,7 @@ permalink: /schedule/
 | 14:20–15:00 | Coffee Break |
 | 15:00–16:20 | **Session 6: Chromatin and Epigenetics** |
 | 16:30 | Closing Remarks |
+
 
 
 
