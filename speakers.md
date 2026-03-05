@@ -62,7 +62,7 @@ Department of Physics
 
 ### Hao-Li Liu
 **Professor**  
-Department of Physics  
+Department of electrical engineering
 
 [Website](https://www.ee.ntu.edu.tw/bio1.php?id=1080916)
 
@@ -189,4 +189,5 @@ Laboratory of Chromatin Structure and Function / Central Laboratory of IQB
 [Website](https://www.iqb.u-tokyo.ac.jp/kurumizakalab/eng/member/index.html)
 
 [Central Laboratory Website](https://www.iqb.u-tokyo.ac.jp/en/about/central-laboratory/)
+
 
