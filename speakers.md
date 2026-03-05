@@ -146,12 +146,17 @@ Laboratory of Molecular Immunology
 
 [Website](https://www.iqb.u-tokyo.ac.jp/okazakilab/eng/index.html)
 
-
 ### Masashi Hada
 **Assistant Professor**  
 Laboratory of Pathology and Development
 
 [Website](https://okadalab.iqb.u-tokyo.ac.jp/people-en/)
+
+### Yutaro Hori
+**Assistant Professor**  
+Laboratory of Genome Regeneration
+
+[Website](https://researchmap.jp/yhori_vc)
 
 ### Tomoatsu Hayashi 
 **Project Research Associate**  
@@ -184,3 +189,4 @@ Laboratory of Chromatin Structure and Function / Central Laboratory of IQB
 [Website](https://www.iqb.u-tokyo.ac.jp/kurumizakalab/eng/member/index.html)
 
 [Central Laboratory Website](https://www.iqb.u-tokyo.ac.jp/en/about/central-laboratory/)
+
