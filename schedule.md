@@ -35,8 +35,9 @@ permalink: /schedule/
 | 11:40–13:00 | Lunch Break |
 | 13:00–14:20 | **Session 5: Immunology and Disease** |
 | 14:20–15:00 | Coffee Break |
-| 15:00–16:20 | **Session 6: Chromatin and Epigenetics** |
-| 16:30 | Closing Remarks |
+| 15:00–16:40 | **Session 6: Chromatin and Epigenetics** |
+| 16:40 | Closing Remarks |
+
 
 
 
