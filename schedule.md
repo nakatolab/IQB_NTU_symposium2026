@@ -59,7 +59,7 @@ permalink: /schedule/
 |  | Tomoatsu Hayashi — *Development and single-cell analysis of RBP-targeted nucleic acid therapeutics for intractable cancers* |
 | 14:20–15:00 | Coffee Break |
 | 15:00–16:40 | **Session 6: Chromatin and Epigenetics** |
-|  | Kristian Jeppsson (Zoom) — *Exploring chromosome-bound SMC complexes by MINFLUX microscopy* |
+|  | Kristian Jeppsson (Online) — *Exploring chromosome-bound SMC complexes by MINFLUX microscopy* |
 |  | Donald Cameron — *Using MD simulations to predict protein interactions and oncogenic enzymatic activity* |
 |  | Yutaro Hori — *Stability and transcriptional regulation of the ribosomal RNA gene cluster in mammals* |
 |  | Syoin Tei — *Dual roles of cohesin in transcription initiation and pausing* |
