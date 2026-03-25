@@ -101,7 +101,7 @@ Laboratory of Oncoprotein Kinetics
 
 [Website](https://www.iqb.u-tokyo.ac.jp/en/lab/cameron/)
 
-### Kobayashi Hotaka
+### Hotaka Kobayashi
 **Visiting Associate Professor**  
 Laboratory of mRNA Translation  
 
