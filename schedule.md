@@ -18,7 +18,7 @@ permalink: /schedule/
 | 11:30 | Group Photo |
 | 11:30–13:00 | Lunch Break |
 | 13:00–14:20 | **Session 1: AI and Systems Biology** |
-|  | Ryuichiro Nakato — *Multimodal data integration using large language models and network theory* |
+|  | Ryuichiro Nakato — *Multimodal data integration using deep learning and network theory* |
 |  | Che Lin — *AI for Smart Healthcare: From Clinical Intelligence to Drug Discovery* |
 |  | Hsueh-Fen Juan — *How Single Cell Omics Drives AI Powered Drug Discovery and Cancer Immunotherapy* |
 |  | Shunsuke Sumi — *Machine learning for RNA design and discovery* |
@@ -53,9 +53,9 @@ permalink: /schedule/
 |  | Lumi Negishi — *The Central Laboratory: A Core Facility Supporting Research at the Institute for Quantitative Biosciences* |
 | 11:40–13:00 | Lunch Break |
 | 13:00–14:20 | **Session 5: Immunology and Disease** |
+|  | Donald Cameron — *Using MD simulations to predict protein interactions and oncogenic enzymatic activity* |
 |  | Genta Furuya — *Cross-species reactive IgA balances the gut microbiome by targeting a physicochemical pattern of pathobiont proteins* |
 |  | Takumi Maruhashi — *Immune regulation by LAG-3, an inhibitory co-receptor of a unique target selectivity* |
-|  | Donald Cameron — *Using MD simulations to predict protein interactions and oncogenic enzymatic activity* |
 |  | Tomoatsu Hayashi — *Development and single-cell analysis of RBP-targeted nucleic acid therapeutics for intractable cancers* |
 | 14:20–15:00 | Coffee Break |
 | 15:00–16:40 | **Session 6: Chromatin and Epigenetics** |
