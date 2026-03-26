@@ -53,8 +53,8 @@ permalink: /schedule/
 |  | Lumi Negishi — *The Central Laboratory: A Core Facility Supporting Research at the Institute for Quantitative Biosciences* |
 | 11:40–13:00 | Lunch Break |
 | 13:00–14:20 | **Session 5: Immunology and Disease** |
-|  | Donald Cameron — *Using MD simulations to predict protein interactions and oncogenic enzymatic activity* |
 |  | Genta Furuya — *Cross-species reactive IgA balances the gut microbiome by targeting a physicochemical pattern of pathobiont proteins* |
+|  | Donald Cameron — *Using MD simulations to predict protein interactions and oncogenic enzymatic activity* |
 |  | Takumi Maruhashi — *Immune regulation by LAG-3, an inhibitory co-receptor of a unique target selectivity* |
 |  | Tomoatsu Hayashi — *Development and single-cell analysis of RBP-targeted nucleic acid therapeutics for intractable cancers* |
 | 14:20–15:00 | Coffee Break |
