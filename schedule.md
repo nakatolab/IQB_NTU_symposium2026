@@ -55,12 +55,12 @@ permalink: /schedule/
 | 13:00–14:20 | **Session 5: Immunology and Disease** |
 |  | Genta Furuya — *Cross-species reactive IgA balances the gut microbiome by targeting a physicochemical pattern of pathobiont proteins* |
 |  | Takumi Maruhashi — *Immune regulation by LAG-3, an inhibitory co-receptor of a unique target selectivity* |
-|  | Ruby Yun-Ju Huang — *3D Genome Architecture of Epithelial Plasticity Across Species* |
+|  | Donald Cameron — *Using MD simulations to predict protein interactions and oncogenic enzymatic activity* |
 |  | Tomoatsu Hayashi — *Development and single-cell analysis of RBP-targeted nucleic acid therapeutics for intractable cancers* |
 | 14:20–15:00 | Coffee Break |
 | 15:00–16:40 | **Session 6: Chromatin and Epigenetics** |
 |  | Kristian Jeppsson (Online) — *Exploring chromosome-bound SMC complexes by MINFLUX microscopy* |
-|  | Donald Cameron — *Using MD simulations to predict protein interactions and oncogenic enzymatic activity* |
+|  | Ruby Yun-Ju Huang — *3D Genome Architecture of Epithelial Plasticity Across Species* |
 |  | Yutaro Hori — *Stability and transcriptional regulation of the ribosomal RNA gene cluster in mammals* |
 |  | Syoin Tei — *Dual roles of cohesin in transcription initiation and pausing* |
 |  | Masashi Hada — *Genome compartments guide protamine replacement and genome integrity during sperm chromatin condensation* |
