@@ -18,7 +18,7 @@ permalink: /schedule/
 | 11:30 | Group Photo |
 | 11:30–13:00 | Lunch Break |
 | 13:00–14:20 | **Session 1: AI and Systems Biology** |
-|  | Ryuichiro Nakato — *Multimodal data integration using deep learning and network theory* |
+|  | Ryuichiro Nakato — *Can large language models identify genome regulatory machinery?* |
 |  | Che Lin — *AI for Smart Healthcare: From Clinical Intelligence to Drug Discovery* |
 |  | Hsueh-Fen Juan — *How Single Cell Omics Drives AI Powered Drug Discovery and Cancer Immunotherapy* |
 |  | Shunsuke Sumi — *Machine learning for RNA design and discovery* |
