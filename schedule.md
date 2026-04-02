@@ -7,7 +7,7 @@ permalink: /schedule/
 # Schedule
 
 
-## Day 1, April 13rd
+## Day 1, April 13th
 
 | Time | Program |
 |------|---------|
