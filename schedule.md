@@ -35,7 +35,7 @@ permalink: /schedule/
 |  | Teruhiro Okuyama — *Representations of Social Memory in Ventral CA1 Neurons* |
 |  | Akihiro Funamizu — *Exploring the natural and artificial neural networks for decision making* |
 | 18:00–18:30 | Buffer / Transition / Break |
-| 18:30–20:30 | Mixer |
+| 18:30–20:30 | Mixer for the selected speakers |
 
 ---
 
@@ -65,4 +65,4 @@ permalink: /schedule/
 |  | Kristian Jeppsson (Online) — *Exploring chromosome-bound SMC complexes by MINFLUX microscopy* |
 |  | Masashi Hada — *Genome compartments guide protamine replacement and genome integrity during sperm chromatin condensation* |
 | 16:40 | Closing Remarks |
-| 17:00 | IQB tour |
+| 17:00 | IQB tour for the NTU professors |
