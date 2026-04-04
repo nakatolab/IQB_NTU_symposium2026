@@ -65,4 +65,4 @@ permalink: /schedule/
 |  | Kristian Jeppsson (Online) — *Exploring chromosome-bound SMC complexes by MINFLUX microscopy* |
 |  | Masashi Hada — *Genome compartments guide protamine replacement and genome integrity during sperm chromatin condensation* |
 | 16:40 | Closing Remarks |
-| 17:00 | IQB tour for the NTU professors |
+| 17:00-18:00 | IQB tour for the NTU professors |
