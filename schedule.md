@@ -15,7 +15,6 @@ permalink: /schedule/
 | 10:30–10:40 | Opening Remarks |
 | 10:40–11:30 | **Keynote Lecture 1 (Chair: Yuki Okada)**|
 |  | Pai-Chi Li — *Reflected Shear Wave Computed Tomography (R-SWCT) for Mechanobiology* |
-| 11:30 | Group Photo |
 | 11:30–13:00 | Lunch Break |
 | 13:00–14:20 | **Session 1: AI and Systems Biology (Chair: Ryuichiro Nakato)** |
 |  | Ryuichiro Nakato — *Can large language models identify genome regulatory machinery?* |
@@ -51,6 +50,7 @@ permalink: /schedule/
 |  | Takashi Fukaya — *Enhancer dynamics in living Drosophila embryos* |
 |  | Chenghan Ho — *A new method for nucleosome cryo-EM analysis by the co-expression of all four histones in E. coli cells* |
 |  | Lumi Negishi — *The Central Laboratory: A Core Facility Supporting Research at the Institute for Quantitative Biosciences* |
+| 11:40 | Group Photo (Building Entrance)|
 | 11:40–13:00 | Lunch Break |
 | 13:00–14:20 | **Session 5: Immunology and Disease (Chair: Hotaka Kobayashi)** |
 |  | Genta Furuya — *Cross-species reactive IgA balances the gut microbiome by targeting a physicochemical pattern of pathobiont proteins* |
