@@ -45,14 +45,14 @@ permalink: /schedule/
 | 09:30–10:10 | **Keynote Lecture 2 (Chair: Akihiro Funamizu)** |
 |  | Yutaro Yamada (Sakana AI) — *The AI Scientist: Towards Automating Discovery with Agents* |
 | 10:10–10:20 | Buffer |
-| 10:20–11:40 | **Session 4: Optical Biology (Chair: Takashi Fukaya)** |
+| 10:20–11:40 | **Session 4: Optical Biology (Chair: Hotaka Kobayashi)** |
 |  | Shi-Wei Chu — *High-speed volumetric optical inspection of brain* |
 |  | Takashi Fukaya — *Enhancer dynamics in living Drosophila embryos* |
 |  | Chenghan Ho — *A new method for nucleosome cryo-EM analysis by the co-expression of all four histones in E. coli cells* |
 |  | Lumi Negishi — *The Central Laboratory: A Core Facility Supporting Research at the Institute for Quantitative Biosciences* |
 | 11:40 | Group Photo (Building Entrance)|
 | 11:40–13:00 | Lunch Break |
-| 13:00–14:20 | **Session 5: Immunology and Disease (Chair: Hotaka Kobayashi)** |
+| 13:00–14:20 | **Session 5: Immunology and Disease (Chair: Takashi Fukaya)** |
 |  | Genta Furuya — *Cross-species reactive IgA balances the gut microbiome by targeting a physicochemical pattern of pathobiont proteins* |
 |  | Donald Cameron — *Using MD simulations to predict protein interactions and oncogenic enzymatic activity* |
 |  | Takumi Maruhashi — *Immune regulation by LAG-3, an inhibitory co-receptor of a unique target selectivity* |
